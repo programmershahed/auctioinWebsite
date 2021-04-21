@@ -82,6 +82,21 @@
 	height:300px;
 	width:100%;
 }
+.backgroundHeaderAuction{
+	background:url(../img/auction/header.png)no-repeat;
+	background-size:cover;
+	background-position:100% 100%;
+	height:350px;
+	width:100%;
+}
+
+.slideAuction{
+	background:url(../img/auction/image01.png)no-repeat;
+	background-size:cover;
+	
+	height:auto;
+	width:100%;
+}
 .first-group{
 	background:#2B2A2C;
 }
@@ -116,11 +131,14 @@
 }
 
 .gallery{
-	background-color: #131315;
+	background-color: #15171a;
 }
 
 .events{
 	color: #A88244;
+}
+body{
+	background-color: #15171a;
 }
 
 
@@ -263,6 +281,96 @@
 		color: #A88244;
 	}
 
+
+
+
+.navbar {
+	border-top:2px solid #A88244;
+	border-bottom:2px solid #A88244;
+	background-color: #131315;
+	margin: 0;
+	padding: 0;
+}	
+
+
+body > section:nth-child(4) > div > div > div:nth-child(1) > div > img{
+	width: 100%;
+	height: auto;
+	border:2px solid #A88244;
+}
+
+ .timing-wrapper {
+	bottom: 20px;
+	
+	left: 15px;
+  }
+
+  .timing-wrapper .box-wrapper {
+	display: table;
+	text-align: center;
+	margin-right: 4px;
+	float: left;
+  }
+
+ .timing-wrapper .box-wrapper .box {
+	background-color: #0d0c10;
+	color: #fff;
+	display: table-cell;
+	height: 44px;
+	vertical-align: middle;
+	width: 45px;
+	line-height: 15px;
+  
+  }
+   .timing-wrapper .box-wrapper .box .key {
+	display: block;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-family:'Open Sans', sans-serif
+  }
+ .timing-wrapper .box-wrapper .box .value {
+	display: block;
+	font-size: 9px;
+	font-weight: 500;
+	letter-spacing:0.5px
+  }
+  .timing-wrapper .box-wrapper:last-child {
+	margin-right: 0px;
+  }
+
+  body > section:nth-child(4) > div > div > div:nth-child(2) > div:nth-child(2) > div > div:nth-child(10) > div > form > div > div.col-2 > button > img{
+         width: 50px;
+		 border:2px solid #A88244;
+
+  }
+	
+ .border1{
+	border:2px solid #A88244;
+	background-color: #0d0c10;
+ } 
+ .border2{
+	border:2px solid #A88244;
+ } 
+ .textColour{
+	 color:#A88244; 
+ }
+ .contentBgColur{
+	 background-color: #0d0c10;
+ }
+
+ .footer{
+	 background-color: #141315;
+ }
+
+ body > section:nth-child(5) > div > div > div > div:nth-child(1) > img{
+	 width: 80%;
+ }
+
+ body > section:nth-child(6) > div > div > div:nth-child(n) > img{
+	 width: 100%;
+	 border:2px solid #A88244;
+ }
 
 
 
