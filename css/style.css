@@ -356,6 +356,11 @@ body > section:nth-child(4) > div > div > div:nth-child(1) > div > img{
 	 color:#A88244; 
  }
 
+ .contentBg{
+	
+	background-color:#A88244;  
+}
+
  .yallowBg{
 	 background-color:#A88244 ;
  }
@@ -403,15 +408,23 @@ body > section:nth-child(4) > div > div > div:nth-child(1) > div > img{
 	height: 30px;
  }
 
- body > section:nth-child(5) > div > div > div.col-md-2.border2 > div > img{
-	 width: 100%;
-	 padding: 0;
-	margin: 0;
+
+
+ #pic01Img{
+	width: 100%;
+	padding: 0;
+   margin: 0;
  }
 
- body > section:nth-child(5) > div > div.row.border2 > div:nth-child(2) > img{
-	 height: 110px;
-	 width: auto;
+ #logo3image{
+	height: 110px;
+	width: auto;
+ }
+
+ #logo4image{
+	height: 100px;
+	border:2px solid #A88244; 
+	width: 110px;
  }
  
 
