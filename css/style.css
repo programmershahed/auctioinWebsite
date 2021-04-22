@@ -355,6 +355,10 @@ body > section:nth-child(4) > div > div > div:nth-child(1) > div > img{
  .textColour{
 	 color:#A88244; 
  }
+
+ .yallowBg{
+	 background-color:#A88244 ;
+ }
  .contentBgColur{
 	 background-color: #0d0c10;
  }
@@ -371,6 +375,57 @@ body > section:nth-child(4) > div > div > div:nth-child(1) > div > img{
 	 width: 100%;
 	 border:2px solid #A88244;
  }
+
+ body > section.gallery.my-5 > div > div > div > div:nth-child(5) > ul > a:nth-child(n) > img{
+
+	height: 40px;
+	width: 40px;
+	
+ }
+
+
+
+
+
+
+ body > section.gallery.my-5 > div > div > div > div.row.justify-content-center > div:nth-child(1) > ul > li:nth-child(n) > img{
+ width: 30px;
+ height: 30px;
+ }
+
+ body > section.gallery.my-5 > div > div > div > div.row.justify-content-center > div:nth-child(2) > ul > li:nth-child(n) > img{
+    width: 30px;
+ height: 30px;
+ }
+
+ body > section.gallery.my-5 > div > div > div > div.row.justify-content-center > div:nth-child(3) > ul > li:nth-child(n) > img{
+	width: 30px;
+	height: 30px;
+ }
+
+ body > section:nth-child(5) > div > div > div.col-md-2.border2 > div > img{
+	 width: 100%;
+	 padding: 0;
+	margin: 0;
+ }
+
+ body > section:nth-child(5) > div > div.row.border2 > div:nth-child(2) > img{
+	 height: 110px;
+	 width: auto;
+ }
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
