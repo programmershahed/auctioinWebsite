@@ -90,6 +90,14 @@
 	width:100%;
 }
 
+.formHeader{
+	background:url(../img/CollectivePage/headerImg.png)no-repeat;
+	background-size:cover;
+	background-position:100% 100%;
+	height:350px;
+	width:100%;
+}
+
 .slideAuction{
 	background:url(../img/auction/image01.png)no-repeat;
 	background-size:cover;
@@ -351,6 +359,7 @@ body > section:nth-child(4) > div > div > div:nth-child(1) > div > img{
  } 
  .border2{
 	border:2px solid #A88244;
+	
  } 
  .textColour{
 	 color:#A88244; 
